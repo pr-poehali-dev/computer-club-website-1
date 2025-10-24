@@ -40,8 +40,8 @@ const ContactsSection = () => {
               </CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-muted-foreground">Пн-Пт: 10:00 - 02:00</p>
-              <p className="text-muted-foreground">Сб-Вс: 10:00 - 04:00</p>
+              <p className="text-muted-foreground text-xl font-semibold">Круглосуточно</p>
+              <p className="text-sm text-muted-foreground mt-2">Работаем 24/7 без выходных</p>
             </CardContent>
           </Card>
 
